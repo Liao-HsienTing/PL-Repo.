@@ -7,4 +7,4 @@
 ---
 - 作業連結區   
 [HW1](https://github.com/Liao-HsienTing/PL-Repo./blob/main/114_1_HW1.ipynb)   
-[HW2]()
+[HW2](https://github.com/Liao-HsienTing/PL-Repo./blob/main/114_1_HW2.ipynb)
