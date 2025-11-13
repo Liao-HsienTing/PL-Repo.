@@ -12,3 +12,4 @@
   JSON 或 [CSV](https://github.com/Liao-HsienTing/PL-Repo./blob/main/%E4%BD%9C%E6%A5%AD%E7%B4%80%E9%8C%84.csv) 檔案。    
 [HW4](https://github.com/Liao-HsienTing/PL-Repo./blob/main/114_1_HW4.ipynb)   
 [HW5](https://github.com/Liao-HsienTing/PL-Repo./blob/main/114_1_HW5.ipynb)
+[HW6](https://github.com/Liao-HsienTing/PL-Repo./blob/main/114_1_HW6.ipynb)
